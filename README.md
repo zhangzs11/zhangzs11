@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/example.gif" alt="描述文字">
+  <img src="./Img/beachSunny.gif" alt="beachGif">
 </p>
 
 
