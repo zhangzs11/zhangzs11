@@ -10,6 +10,7 @@
 °°・.｡.:*❀You turned away and took his tenderness instead・°°・.｡.:*❀
 </p>
 
+![我的GIF图片](./Img/beachSunny.gif)
 
 
 
