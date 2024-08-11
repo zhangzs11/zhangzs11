@@ -9,8 +9,9 @@
 ☆*:.｡.I gathered flowers on the shore☀ for you, waiting…..• 
 °°・.｡.:*❀You turned away and took his tenderness instead・°°・.｡.:*❀
 </p>
+
 <p align="center">
-![beachGif](./Img/beachSunny.gif)
+  <img src="./assets/example.gif" alt="描述文字">
 </p>
 
 
